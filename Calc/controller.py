@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import logger as lg
 
-bot = telebot.TeleBot('5891172453:AAH2OGgUPeOmSeFbLCBsrSU34qZFh19hoiY')
+bot = telebot.TeleBot()
 
 value = ''
 old_value = ''
