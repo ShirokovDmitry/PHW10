@@ -5,7 +5,7 @@ import strings as st
 
 # токен для телеграмма
 def getToken():
-    token = '5891172453:AAH2OGgUPeOmSeFbLCBsrSU34qZFh19hoiY'
+    token = ''
     return token
 
 def isWin(arr, who):
